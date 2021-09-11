@@ -8,7 +8,7 @@ The theoretical part of the workshop includes this [presentation](https://github
 
 ## Colab notebooks
 The practical part of the workshop will include programming three Python notebooks. These are hosted on Google Colab:
-* [Part 1 - Data preprocessing](https://colab.research.google.com/drive/1TcGrzhtlb6XdIE33l5cnedPeaPlyNrNE)
+* [Part 1 - Data preprocessing](https://colab.research.google.com/drive/1TcGrzhtlb6XdIE33l5cnedPeaPlyNrNE?usp=sharing)
 * [Part 2 - Machine learning](https://colab.research.google.com/drive/1adYKWqgSsky0z5LITB9QjsFTmL7g90gH?usp=sharing)
 * [Part 3 - Deep learning](https://colab.research.google.com/drive/1Y6gstz3ybo8efObCaEmg5KsMbGEOfzoe?usp=sharing)
 
