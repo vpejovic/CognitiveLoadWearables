@@ -15,5 +15,5 @@ The practical part of the workshop will include programming three Python noteboo
 ## Contact
 Martin and Veljko are open for discussion, potential collaborations. Feel free to contact them at martin.gjoreski@usi.ch and veljko.pejovic@fri.uni-lj.si
 
-
-
+## Workshop recording
+The full recording (4 hrs) available [here](https://uni-lj-si.zoom.us/rec/share/nddiSHKCZxq0fkNi_wHNuDx3DFXOAkjk9w5RnbctY_4NqXZKKhl_wI7BYZrMwXET.NNoQRHgVGSILUJfb?startTime=1631362070000)
